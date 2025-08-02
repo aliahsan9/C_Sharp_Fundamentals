@@ -1,0 +1,14 @@
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\obj\Debug\net8.0\10_ClassWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\obj\Debug\net8.0\10_ClassWithObjects.AssemblyInfoInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\obj\Debug\net8.0\10_ClassWithObjects.AssemblyInfo.cs
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\obj\Debug\net8.0\10_ClassWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\bin\Debug\net8.0\10_ClassWithObjects.exe
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\bin\Debug\net8.0\10_ClassWithObjects.deps.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\bin\Debug\net8.0\10_ClassWithObjects.runtimeconfig.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\bin\Debug\net8.0\10_ClassWithObjects.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\bin\Debug\net8.0\10_ClassWithObjects.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\obj\Debug\net8.0\10_ClassWithObjects.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\obj\Debug\net8.0\refint\10_ClassWithObjects.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\obj\Debug\net8.0\10_ClassWithObjects.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\obj\Debug\net8.0\10_ClassWithObjects.genruntimeconfig.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\10_ClassWithObjects\obj\Debug\net8.0\ref\10_ClassWithObjects.dll

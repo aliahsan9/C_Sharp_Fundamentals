@@ -1,0 +1,14 @@
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\bin\Debug\net8.0\11_Encapsulation.exe
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\bin\Debug\net8.0\11_Encapsulation.deps.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\bin\Debug\net8.0\11_Encapsulation.runtimeconfig.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\bin\Debug\net8.0\11_Encapsulation.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\bin\Debug\net8.0\11_Encapsulation.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\obj\Debug\net8.0\11_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\obj\Debug\net8.0\11_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\obj\Debug\net8.0\11_Encapsulation.AssemblyInfo.cs
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\obj\Debug\net8.0\11_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\obj\Debug\net8.0\11_Encapsulation.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\obj\Debug\net8.0\refint\11_Encapsulation.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\obj\Debug\net8.0\11_Encapsulation.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\obj\Debug\net8.0\11_Encapsulation.genruntimeconfig.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\12_Encapsulation\obj\Debug\net8.0\ref\11_Encapsulation.dll

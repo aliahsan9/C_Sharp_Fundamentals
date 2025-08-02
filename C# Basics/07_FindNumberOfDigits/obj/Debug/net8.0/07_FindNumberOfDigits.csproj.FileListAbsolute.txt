@@ -1,0 +1,14 @@
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\bin\Debug\net8.0\07_FindNumberOfDigits.exe
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\bin\Debug\net8.0\07_FindNumberOfDigits.deps.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\bin\Debug\net8.0\07_FindNumberOfDigits.runtimeconfig.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\bin\Debug\net8.0\07_FindNumberOfDigits.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\bin\Debug\net8.0\07_FindNumberOfDigits.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\obj\Debug\net8.0\07_FindNumberOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\obj\Debug\net8.0\07_FindNumberOfDigits.AssemblyInfoInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\obj\Debug\net8.0\07_FindNumberOfDigits.AssemblyInfo.cs
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\obj\Debug\net8.0\07_FindNumberOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\obj\Debug\net8.0\07_FindNumberOfDigits.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\obj\Debug\net8.0\refint\07_FindNumberOfDigits.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\obj\Debug\net8.0\07_FindNumberOfDigits.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\obj\Debug\net8.0\07_FindNumberOfDigits.genruntimeconfig.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\07_FindNumberOfDigits\obj\Debug\net8.0\ref\07_FindNumberOfDigits.dll

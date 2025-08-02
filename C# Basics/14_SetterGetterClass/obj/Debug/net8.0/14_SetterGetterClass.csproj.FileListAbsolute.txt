@@ -1,0 +1,14 @@
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\obj\Debug\net8.0\14_SetterGetterClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\obj\Debug\net8.0\14_SetterGetterClass.AssemblyInfoInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\obj\Debug\net8.0\14_SetterGetterClass.AssemblyInfo.cs
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\obj\Debug\net8.0\14_SetterGetterClass.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\bin\Debug\net8.0\14_SetterGetterClass.exe
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\bin\Debug\net8.0\14_SetterGetterClass.deps.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\bin\Debug\net8.0\14_SetterGetterClass.runtimeconfig.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\bin\Debug\net8.0\14_SetterGetterClass.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\bin\Debug\net8.0\14_SetterGetterClass.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\obj\Debug\net8.0\14_SetterGetterClass.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\obj\Debug\net8.0\refint\14_SetterGetterClass.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\obj\Debug\net8.0\14_SetterGetterClass.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\obj\Debug\net8.0\14_SetterGetterClass.genruntimeconfig.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\14_SetterGetterClass\obj\Debug\net8.0\ref\14_SetterGetterClass.dll

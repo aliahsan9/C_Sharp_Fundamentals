@@ -1,0 +1,14 @@
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\obj\Debug\net8.0\17_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\obj\Debug\net8.0\17_Abstraction.AssemblyInfoInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\obj\Debug\net8.0\17_Abstraction.AssemblyInfo.cs
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\obj\Debug\net8.0\17_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\bin\Debug\net8.0\17_Abstraction.exe
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\bin\Debug\net8.0\17_Abstraction.deps.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\bin\Debug\net8.0\17_Abstraction.runtimeconfig.json
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\bin\Debug\net8.0\17_Abstraction.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\bin\Debug\net8.0\17_Abstraction.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\obj\Debug\net8.0\17_Abstraction.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\obj\Debug\net8.0\refint\17_Abstraction.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\obj\Debug\net8.0\17_Abstraction.pdb
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\obj\Debug\net8.0\17_Abstraction.genruntimeconfig.cache
+C:\Users\Ali Ahsan\Desktop\C_Sharp\17_Abstraction\obj\Debug\net8.0\ref\17_Abstraction.dll
