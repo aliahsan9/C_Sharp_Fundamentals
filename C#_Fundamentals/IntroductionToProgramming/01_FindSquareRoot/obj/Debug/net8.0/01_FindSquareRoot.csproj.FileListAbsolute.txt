@@ -12,3 +12,4 @@ C:\Users\Ali Ahsan\Desktop\C_Sharp_Basics\C#_Fundamentals\IntroductionToProgramm
 C:\Users\Ali Ahsan\Desktop\C_Sharp_Basics\C#_Fundamentals\IntroductionToProgramming\01_FindSquareRoot\obj\Debug\net8.0\01_FindSquareRoot.pdb
 C:\Users\Ali Ahsan\Desktop\C_Sharp_Basics\C#_Fundamentals\IntroductionToProgramming\01_FindSquareRoot\obj\Debug\net8.0\01_FindSquareRoot.genruntimeconfig.cache
 C:\Users\Ali Ahsan\Desktop\C_Sharp_Basics\C#_Fundamentals\IntroductionToProgramming\01_FindSquareRoot\obj\Debug\net8.0\ref\01_FindSquareRoot.dll
+C:\Users\Ali Ahsan\Desktop\C_Sharp_Basics\C#_Fundamentals\IntroductionToProgramming\01_FindSquareRoot\obj\Debug\net8.0\01_FindSquareRoot.sourcelink.json
