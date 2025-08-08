@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\11_ClassWithConstructor\\ClassWithConstructor.csproj": {}
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\11_ClassWithConstructor\\ClassWithConstructor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\11_ClassWithConstructor\\ClassWithConstructor.csproj": {
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\11_ClassWithConstructor\\ClassWithConstructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\11_ClassWithConstructor\\ClassWithConstructor.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\11_ClassWithConstructor\\ClassWithConstructor.csproj",
         "projectName": "ClassWithConstructor",
-        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\11_ClassWithConstructor\\ClassWithConstructor.csproj",
+        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\11_ClassWithConstructor\\ClassWithConstructor.csproj",
         "packagesPath": "C:\\Users\\Ali Ahsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\11_ClassWithConstructor\\obj\\",
+        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\11_ClassWithConstructor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ali Ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

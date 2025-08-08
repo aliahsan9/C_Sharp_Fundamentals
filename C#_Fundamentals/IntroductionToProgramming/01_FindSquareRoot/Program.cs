@@ -1,23 +1,22 @@
 ﻿using System;
-using System.Linq; // Required for .Select()
+using System.Linq;
 
 class Program
 {
     public static void Main(string[] args)
+{
+    Console.WriteLine("Enter an integers, by separating commas:");
+    string input = Console.ReadLine();
+
+    int[] nums = input.Split(',')
+    .Select (s => int.Parse(s.Trim()))
+    .ToArray();
+
+    for(int i = 0; i < nums.Length; i++)
     {
-        Console.WriteLine("Enter integers separated by commas (e.g., 2,3,4):");
-        string input = Console.ReadLine();
+        int squareRoot = nums[i] * nums[i];
 
-        // Convert string input to int array
-        int[] nums = input.Split(',')
-                          .Select(s => int.Parse(s.Trim()))
-                          .ToArray();
-
-        // Calculate square of each number
-        for (int i = 0; i < nums.Length; i++)
-        {
-            int square = nums[i] * nums[i];
-            Console.WriteLine($"Square of {nums[i]} is {square}");
-        }
+        Console.WriteLine($"SquareRoot of {nums[i]} is {squareRoot}");
     }
+}
 }

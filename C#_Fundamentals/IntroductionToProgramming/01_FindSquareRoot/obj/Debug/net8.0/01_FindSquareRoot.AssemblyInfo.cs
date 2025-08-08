@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01_FindSquareRoot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70dd67b65dfbd1243c9bb0115f2d1139551abeaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f77785cb42f201ce4f0ead2e21f04348fb49090")]
 [assembly: System.Reflection.AssemblyProductAttribute("01_FindSquareRoot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01_FindSquareRoot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

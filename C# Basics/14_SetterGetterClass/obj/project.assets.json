@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\14_SetterGetterClass\\14_SetterGetterClass.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\14_SetterGetterClass\\14_SetterGetterClass.csproj",
       "projectName": "14_SetterGetterClass",
-      "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\14_SetterGetterClass\\14_SetterGetterClass.csproj",
+      "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\14_SetterGetterClass\\14_SetterGetterClass.csproj",
       "packagesPath": "C:\\Users\\Ali Ahsan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\14_SetterGetterClass\\obj\\",
+      "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\14_SetterGetterClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ali Ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

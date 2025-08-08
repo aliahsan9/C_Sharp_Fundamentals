@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\13_Inheritance\\12_Inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\13_Inheritance\\12_Inheritance.csproj",
       "projectName": "12_Inheritance",
-      "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\13_Inheritance\\12_Inheritance.csproj",
+      "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\13_Inheritance\\12_Inheritance.csproj",
       "packagesPath": "C:\\Users\\Ali Ahsan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\13_Inheritance\\obj\\",
+      "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\13_Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ali Ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\01_C_Sharp\\C_Sharp.csproj": {}
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\01_C_Sharp\\C_Sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\01_C_Sharp\\C_Sharp.csproj": {
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\01_C_Sharp\\C_Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\01_C_Sharp\\C_Sharp.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\01_C_Sharp\\C_Sharp.csproj",
         "projectName": "C_Sharp",
-        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\01_C_Sharp\\C_Sharp.csproj",
+        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\01_C_Sharp\\C_Sharp.csproj",
         "packagesPath": "C:\\Users\\Ali Ahsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\01_C_Sharp\\obj\\",
+        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\01_C_Sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ali Ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.409/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

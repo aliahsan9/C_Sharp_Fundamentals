@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\09_Classes\\Classes.csproj": {}
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\09_Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\09_Classes\\Classes.csproj": {
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\09_Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\09_Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\09_Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\09_Classes\\Classes.csproj",
+        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\09_Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\Ali Ahsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\09_Classes\\obj\\",
+        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\09_Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ali Ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

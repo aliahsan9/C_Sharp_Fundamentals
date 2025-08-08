@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\02_Input_Output\\Input_Output.csproj": {}
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\02_Input_Output\\Input_Output.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\02_Input_Output\\Input_Output.csproj": {
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\02_Input_Output\\Input_Output.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\02_Input_Output\\Input_Output.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\02_Input_Output\\Input_Output.csproj",
         "projectName": "Input_Output",
-        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\02_Input_Output\\Input_Output.csproj",
+        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\02_Input_Output\\Input_Output.csproj",
         "packagesPath": "C:\\Users\\Ali Ahsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\02_Input_Output\\obj\\",
+        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\02_Input_Output\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ali Ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.409/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = If_Else
-build_property.ProjectDir = C:\Users\Ali Ahsan\Desktop\C_Sharp\06_If_Else\
+build_property.ProjectDir = c:\Users\Ali Ahsan\Desktop\C_Sharp_Basics\C# Basics\06_If_Else\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

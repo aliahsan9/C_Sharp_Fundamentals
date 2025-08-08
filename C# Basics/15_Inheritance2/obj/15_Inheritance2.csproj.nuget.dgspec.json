@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\15_Inheritance2\\15_Inheritance2.csproj": {}
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\15_Inheritance2\\15_Inheritance2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\15_Inheritance2\\15_Inheritance2.csproj": {
+    "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\15_Inheritance2\\15_Inheritance2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\15_Inheritance2\\15_Inheritance2.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\15_Inheritance2\\15_Inheritance2.csproj",
         "projectName": "15_Inheritance2",
-        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\15_Inheritance2\\15_Inheritance2.csproj",
+        "projectPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\15_Inheritance2\\15_Inheritance2.csproj",
         "packagesPath": "C:\\Users\\Ali Ahsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp\\15_Inheritance2\\obj\\",
+        "outputPath": "C:\\Users\\Ali Ahsan\\Desktop\\C_Sharp_Basics\\C# Basics\\15_Inheritance2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ali Ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
