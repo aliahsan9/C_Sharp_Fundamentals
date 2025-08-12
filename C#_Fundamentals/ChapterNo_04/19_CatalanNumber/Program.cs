@@ -13,7 +13,7 @@ class Program
             Console.WriteLine("n must be ≥ 0.");
             return;
         }
-
+   
         BigInteger catalan = Factorial(2 * n) / (Factorial(n + 1) * Factorial(n));
         Console.WriteLine($"Catalan number C({n}) = {catalan}");
     }
