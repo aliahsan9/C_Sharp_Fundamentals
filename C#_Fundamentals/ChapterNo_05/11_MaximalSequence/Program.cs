@@ -4,7 +4,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        int[] array = { 1, 1, 2, 3, 2, 2, 2, 1 };
+        int[] array = { 1, 2, 2, 3, 4, 5, 6, 6, 6 };
 
         int maxCount = 1;
         int currentCount = 1;
@@ -23,14 +23,13 @@ class Program
             }
             else
             {
-                currentCount = 1; // reset for new sequence
+                currentCount = 1;
             }
         }
-
-        Console.Write("Maximal sequence: ");
-        for (int i = 0; i < maxCount; i++)
+        Console.WriteLine("Maximal Sequence is:");
+        for (int i = 0; i < currentCount; i++)
         {
-            Console.Write(number + " ");
+            Console.Write(number+ " ");
         }
     }
 }
