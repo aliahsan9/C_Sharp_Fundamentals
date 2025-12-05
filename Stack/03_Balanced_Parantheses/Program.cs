@@ -14,7 +14,7 @@ class BalancedParantheses
             {
                 stack.Push(ch);
             }
-            //If it's cl;osing bracket 
+            //If it's closing bracket 
             else 
             if(ch == ')' || ch == '}' || ch == ']')
             {
