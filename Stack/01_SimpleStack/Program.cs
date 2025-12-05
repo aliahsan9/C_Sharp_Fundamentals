@@ -6,61 +6,66 @@ class Stack
     private int top;
     private int maxSize;
 
-    //Constructor
     public Stack(int size)
     {
         maxSize = size;
         items = new int[maxSize];
-        top = -1; //Stack is empty
+        top = -1; // stack is empty
     }
-    //Push -> Add elements
-    public void Push(int val)
+
+    // Push → Add element
+    public void Push(int value)
     {
-        if(top == maxSize - 1)
+        if (top == maxSize - 1)
         {
             Console.WriteLine("Stack Overflow!");
             return;
         }
-        items[++top] = val;
+        items[++top] = value;
     }
-    //Pop -> remove element
+
+    // Pop → Remove top element
     public int Pop()
     {
-        if(top == -1)
+        if (top == -1)
         {
-            Console.WriteLine("Stack Overflow!");
+            Console.WriteLine("Stack Underflow!");
             return -1;
         }
         return items[top--];
     }
-    //Peek -> check top elements
+
+    // Peek → Check top element
     public int Peek()
     {
-        if(top == -1)
+        if (top == -1)
         {
             Console.WriteLine("Stack is empty!");
             return -1;
         }
         return items[top];
     }
-    //Display -> Print Stack elements
+
+    // Display → Print stack elements
     public void Display()
     {
-        if(top == -1)
+        if (top == -1)
         {
             Console.WriteLine("Stack is empty!");
             return;
         }
-        Console.WriteLine("Stack elements are:");
-       for(int i = top; i>= 0; i--)
+
+        Console.WriteLine("Stack elements:");
+        for (int i = top; i >= 0; i--)
         {
             Console.WriteLine(items[i]);
         }
     }
 }
+
 class Program
 {
-    static void Main(String[] args)
+    static void Main()
     {
         Stack st = new Stack(5);
 
@@ -68,12 +73,14 @@ class Program
         st.Push(20);
         st.Push(30);
 
-        Console.WriteLine("Top elements are:");
+        Console.WriteLine("Top element is: " + st.Peek());
+
         st.Display();
 
-        st.Pop();
-        Console.WriteLine("After Poping elements are:");
+        Console.WriteLine("Popped: " + st.Pop());
+
         st.Display();
-        
+
+        Console.ReadLine();
     }
 }
