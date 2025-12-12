@@ -10,7 +10,7 @@ class Solution
 
         Stack<int> st = new Stack<int>();
 
-        for (int i = 0; i < n; i++)  // <-- FIXED CONDITION
+        for (int i = 0; i < n; i++)  // FIXED CONDITION
         {
             // Remove smaller or equal elements
             while (st.Count > 0 && st.Peek() <= nums[i])
