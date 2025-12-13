@@ -12,7 +12,7 @@ class Program
         numbers.Enqueue(20);
         numbers.Enqueue(30);
 
-        // Print Numbers after Enqueue 
+        // Print Numbers after Enqueue operation
         Console.WriteLine("Queue Elements are:");
         foreach(int n in numbers)
         {
