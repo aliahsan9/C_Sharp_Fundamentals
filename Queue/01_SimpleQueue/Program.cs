@@ -22,7 +22,7 @@ class Program
         //Check first element without removing
         Console.WriteLine("\nPeek Elements: "+ numbers.Peek());
 
-        //Dequeue -> Remove the first element
+        //Dequeue --> Remove the first element
         Console.WriteLine("\nDequeue: "+ numbers.Dequeue());
 
         //Count all elements
