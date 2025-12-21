@@ -10,7 +10,7 @@ class Stack
     {
         maxSize = size;
         items = new int[maxSize];
-        top = -1; // stack is empty now
+        top = -1; // stack is empty
     }
 
     // Push → Add element
