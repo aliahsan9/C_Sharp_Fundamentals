@@ -4,7 +4,7 @@ class TwoSum
 {
     static int[] TwoSumMethod(int[] nums, int target)
     {
-        // Brute force approach
+        // Brute force  now
         for (int i = 0; i < nums.Length; i++)
         {
             for (int j = i + 1; j < nums.Length; j++)
