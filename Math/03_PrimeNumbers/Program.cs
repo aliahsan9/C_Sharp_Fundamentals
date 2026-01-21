@@ -23,7 +23,7 @@ class Program
 {
     public static void Main()
     {
-        int num = 4; //Initialize num 4
+        int num = 4; //Initialize num 4 now
         if(PrimeNumbers.CheckPrime(num) == 1)
         {
             Console.WriteLine($"{num} is Prime Number!");
