@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 class Program
 {
@@ -22,7 +23,7 @@ class Program
 
         int i = 0, j = 0, k = 0;
 
-        // Compare and merge
+        // Compare and merge 
         while (i < n1 && j < n2)
         {
             if (arr1[i] <= arr2[j])
@@ -31,7 +32,7 @@ class Program
                 result[k++] = arr2[j++];
         }
 
-        // Copy remaining elements
+        // Copy remaining elements now
         while (i < n1)
             result[k++] = arr1[i++];
 
