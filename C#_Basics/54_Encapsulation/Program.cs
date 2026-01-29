@@ -44,6 +44,11 @@ class Person
             }
         }
     }
+    public Person(string name, int age)
+    {
+        Name = name;
+        Age = age;
+    }
     // Display Function
     public void DisplayInfo()
     {
@@ -54,9 +59,7 @@ class Program
 {
     static void Main(String[] args)
     {
-        Person person = new Person();
-        person.Name = "Ali Ahsan";
-        person.Age = 21;
+        Person person = new Person("Ali Ahsan", 22);
 
         person.DisplayInfo();
     }
