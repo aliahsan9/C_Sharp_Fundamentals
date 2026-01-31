@@ -10,9 +10,9 @@ class FibonacciNumbers
         Console.WriteLine("Fibonacci Numbers:");
         for(int i = 0; i <= nums; i++)
         {
-            Console.Write(a + " "); // a = 0
+            Console.Write(a + " ");
 
-            int next = a + b;   // 0 + 1 = 1
+            int next = a + b;   // 0 + 1 = 1 then 1 + 2 = 3 ...
 
             //Move b into a
             a = b;         
