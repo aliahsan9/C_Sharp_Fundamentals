@@ -76,7 +76,7 @@ class Program
             Console.WriteLine("Casting to Cat failed using 'as'");
         }
 
-        // --------------------------------------------------
+        // ----------------------------
         // WHAT NOT TO DO (UNSAFE DOWNCASTING)
         // --------------------------------------------------
         // This would throw an InvalidCastException at runtime:
