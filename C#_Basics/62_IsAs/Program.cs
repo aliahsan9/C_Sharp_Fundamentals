@@ -63,7 +63,7 @@ class Program
 
         if (dogUsingAs != null)
         {
-            // Casting succeeded
+            // Casting succeeded now
             dogUsingAs.Bark();
         }
 
