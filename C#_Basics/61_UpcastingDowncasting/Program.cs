@@ -42,9 +42,9 @@ class Program
 
         dogRef.Bark(); // Works
 
-        // ---------------------------
+        // -------------------------
         // SAFE DOWNCASTING with 'is'
-        // ---------------------------
+
         Console.WriteLine("\nSafe Downcasting using 'is':");
 
         if (animalRef is Dog safeDog)
@@ -52,9 +52,8 @@ class Program
             safeDog.Bark();
         }
 
-        // ---------------------------
         // SAFE DOWNCASTING with 'as'
-        // ---------------------------
+      
         Console.WriteLine("\nSafe Downcasting using 'as':");
 
         Dog anotherDog = animalRef as Dog;
