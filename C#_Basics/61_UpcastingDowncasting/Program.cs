@@ -42,7 +42,7 @@ class Program
 
         dogRef.Bark(); // Works
 
-        // ------------------
+        // ----------------
         // SAFE DOWNCASTING with 'is'
 
         Console.WriteLine("\nSafe Downcasting using 'is':");
