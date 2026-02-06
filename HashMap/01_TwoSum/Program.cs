@@ -1,32 +1,33 @@
 ﻿using System;
 
-class TwoSum
+class Solution
 {
-    static int[] TwoSumMethod(int[] nums, int target)
+    public static int[] TwoSum(int[] nums, int target)
     {
-        // Brute force  now
-        for (int i = 0; i < nums.Length; i++)
-        {
-            for (int j = i + 1; j < nums.Length; j++)
-            {
-                int sum = nums[i] + nums[j];
+        Dictionary<int, int> map = new Dictionary<int, int>();
 
-                if (sum == target)
-                {
-                    return new int[] { i, j };
-                }
-            }
+        for(int i = 0; i < nums.Length; i++)
+        {
+            int complement = target - nums[i];
+
+            if (map.ContainsKey(complement))
+                return new int[] { map[complement], i };
+
+            map[nums[i]] = i;
         }
 
         return new int[] { -1, -1 };
+
     }
-
-    static void Main(string[] args)
+}
+class Program
+{
+    static void Main(String[] args)
     {
-        int[] arr = { 2, 7, 8, 9, 10 };
+        int[] arr = { 2, 7, 5, 6, 8 };
 
-        int[] result = TwoSumMethod(arr, 109);
+        int[] result = Solution.TwoSum(arr, 9);
 
-        Console.WriteLine($"Indices are: {result[0]}, {result[1]}");
+        Console.WriteLine($"Result Indices are: {result[0]}, {result[1]}");
     }
 }
