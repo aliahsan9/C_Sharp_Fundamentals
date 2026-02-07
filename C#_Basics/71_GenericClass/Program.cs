@@ -18,7 +18,7 @@ public class Box<T>
         return _value;
     }
 
-    // Method to set value now
+    // Method to set value
     public void SetValue(T value)
     {
         _value = value;
