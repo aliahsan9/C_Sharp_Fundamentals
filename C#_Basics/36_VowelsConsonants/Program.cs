@@ -5,7 +5,7 @@ class VowelsConsonants
     static void Main(string[] args)
     {
         Console.WriteLine("Enter any string:");
-        string input = Console.ReadLine();
+        string? input = Console.ReadLine();
 
         int vowels = 0, consonants = 0, digits = 0;
 

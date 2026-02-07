@@ -10,7 +10,7 @@ class Program
             1, 2, 3, 2, 4, 1, 5, 3
         };
 
-        // HashSet automatically removes duplicates
+        // HashSet automatically removes duplicates values
         HashSet<int> uniqueNumbers = new HashSet<int>(numbers);
 
         Console.WriteLine("After removing duplicates:");
