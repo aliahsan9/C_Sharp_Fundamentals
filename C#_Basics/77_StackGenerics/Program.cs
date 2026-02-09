@@ -12,7 +12,7 @@ public class MyStack<T>
     {
         capacity = size;
         items = new T[capacity];
-        top = -1; // Stack is empty initially now 
+        top = -1; // Stack is empty initially 
     }
 
     // Push method: adds element to stack
