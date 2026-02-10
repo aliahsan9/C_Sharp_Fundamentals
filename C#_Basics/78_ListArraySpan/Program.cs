@@ -11,8 +11,8 @@ class Program
 
         for(int i = 0; i < array.Length; i++)
         {
-            yield return array[i];
-            //Console.WriteLine("Array Elements are:"+ array[i]);
+            
+            Console.WriteLine("Array Elements are:"+ array[i]);
         }
     }
 }
