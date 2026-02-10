@@ -9,10 +9,10 @@ class Program
         array[1] = 20;
         array[2] = 30;
 
-        for(int i = 0; i < array.Length; i++)
+        foreach(int num in array)
         {
             
-            Console.WriteLine("Array Elements are:"+ array[i]);
+            Console.WriteLine("Array Elements are:"+ num);
         }
     }
 }
