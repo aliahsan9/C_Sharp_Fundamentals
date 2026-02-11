@@ -15,8 +15,9 @@ class Program
             .OrderByDescending(n => n)
             .Take(3);
 
-         // Now print results
+        // Now print results
 
+        Console.WriteLine("Top 3 numbers are:");
         foreach(var num in top3)
         {
             Console.WriteLine($"{num}");
