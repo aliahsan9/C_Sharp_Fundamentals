@@ -2,63 +2,56 @@
 
 class Program
 {
-    static void Main()
+    static void Main(String[] args)
     {
         try
         {
-            Console.Write("Enter a number: ");
+            Console.WriteLine("Enter a number:");
 
-            // May throw FormatException
-            int number = int.Parse(Console.ReadLine());
+            // May throw format exception
+            int num = int.Parse(Console.ReadLine());
 
-            // May throw DivideByZeroException
-            int result = 100 / number;
+            // May throw Divide by Zero exception
+            int result = 100 / num;
 
             int[] arr = { 10, 20, 30 };
+            Console.WriteLine("Enter an Index(0-2):");
 
-            Console.Write("Enter index (0-2): ");
-
-            // May throw FormatException again
+            // May throw format exception again
             int index = int.Parse(Console.ReadLine());
-
-            // May throw IndexOutOfRangeException
+            // May throw indexOutOfRangeException
             Console.WriteLine("Array Value: " + arr[index]);
 
             Console.WriteLine("Division Result: " + result);
         }
-
-        // 1️⃣ Specific Exception FIRST
+        // Specific Exception First 
         catch (DivideByZeroException ex)
         {
             Console.WriteLine("Error: Cannot divide by zero.");
             Console.WriteLine(ex.Message);
         }
-
-        // 2️⃣ Then Format Exception
-        catch (FormatException ex)
+        // Then format exception
+        catch(FormatException ex)
         {
             Console.WriteLine("Error: Invalid input format.");
             Console.WriteLine(ex.Message);
         }
-
-        // 3️⃣ Then Index Exception
-        catch (IndexOutOfRangeException ex)
+        // Then Index Exception
+        catch(IndexOutOfRangeException ex)
         {
             Console.WriteLine("Error: Invalid array index.");
             Console.WriteLine(ex.Message);
         }
-
-        // 4️⃣ General Exception at LAST
+        // General exception at last
         catch (Exception ex)
         {
-            Console.WriteLine("Unexpected Error Occurred.");
+            Console.WriteLine("Error: Unexpected Error Occured.");
             Console.WriteLine(ex.Message);
         }
-
         // Always Executes
         finally
         {
             Console.WriteLine("Program Ended.");
         }
-    }
+}
 }
