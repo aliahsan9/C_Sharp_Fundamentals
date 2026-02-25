@@ -24,13 +24,13 @@ class Program
         // Create a new Delegate
         MyDelegate del;
 
-        del = calc.Add();
+        del = calc.Add;
         int result1 = del(5, 10);
 
         Console.WriteLine("Sum is: " + result1);
 
 
-        del = calc.Multiply();
+        del = calc.Multiply;
         int result2 = del(5, 10);
         Console.WriteLine("Multiplication Result:" + result2);
     }
